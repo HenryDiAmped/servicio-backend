@@ -47,6 +47,6 @@
 
 # Documentacion
 1. PARA GET Y POST:  
-http://127.0.0.1:8000/api/servicios/
+http://127.0.0.1:8000/api/v1/servicios/
 2. PARA PUT Y DELETE:  
-http://127.0.0.1:8000/api/servicios/{id}/
+http://127.0.0.1:8000/api/v1/servicios/{id}/
